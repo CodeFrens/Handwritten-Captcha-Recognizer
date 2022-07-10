@@ -1,5 +1,5 @@
 # Handwritten-Captcha-Recognizer
-In this project i have created two notebook
+In this project two notebooks have been created
 1) Emoji Model_training :- In this I have read all the emoji data, performed augmentation on them and saved them in a CSV file. Created a emoji prediction model and saved that named as "emoji_model.h5" .
 
 
@@ -7,6 +7,6 @@ In this project i have created two notebook
 
 Now I created a segmentar file which is used to segment image.
 
-##### To run this project we can run main.py file. #####
+###### To run this project we can run main.py file. #####
 
 In main.py file there is a Get_Ans function which uses Get_Images function from segmentar.py and predict the output.
